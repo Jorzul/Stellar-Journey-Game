@@ -15,3 +15,6 @@ In this Stellar Journey game, the player controls the USS Endeavour spaceship an
 
 3. Every time a Blingon ship is destroyed, the remaining ones reposition randomly on the grid.
 4. The player wins by destroying all enemy ships.
+
+# How to run
+Simply run the start.py file and follow the instructions.
